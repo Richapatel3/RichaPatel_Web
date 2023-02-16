@@ -1,6 +1,5 @@
 Purpose:
-NU MOVES aims to alleviate the hassle Northeastern University students face every year while moving in and out of their accommodation. It provides a safe and reliable
-platform for a close-knit community of Northeastern Unioversity students to buy, sell & rent stuff among themselves.  
+Thrift Safari aims to alleviate the hassle people face every year while moving in and out of their accommodation. It provides a safe and reliable platform for a close-knit community of people to buy, sell & rent stuff among themselves.  
 
 
 Bootstrap Components:
